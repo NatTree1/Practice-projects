@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4AB17193-FBBE-4907-B6AB-FFC1D618309D}|BankTransactions.csproj|c:\\users\\natha\\onedrive\\documents\\github\\practice-projects\\banktransactions\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AB17193-FBBE-4907-B6AB-FFC1D618309D}|BankTransactions.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB17193-FBBE-4907-B6AB-FFC1D618309D}|BankTransactions.csproj|c:\\users\\natha\\onedrive\\documents\\github\\practice-projects\\banktransactions\\models\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB17193-FBBE-4907-B6AB-FFC1D618309D}|BankTransactions.csproj|solutionrelative:models\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\Practice-projects\\BankTransactions\\Models\\TransactionDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionDBContext.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\Practice-projects\\BankTransactions\\Models\\TransactionDBContext.cs",
+              "RelativeToolTip": "Models\\TransactionDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:27:23.503Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Models\\Transaction.cs",
               "ToolTip": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\Practice-projects\\BankTransactions\\Models\\Transaction.cs",
               "RelativeToolTip": "Models\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T12:38:42.888Z",
               "EditorCaption": ""
